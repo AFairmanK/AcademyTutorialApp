@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#fF4081</color>
+
+    <color name="skyBlue">#7ec0ee</color>
+    <color name="BlackestBlackistBlack">#000000</color>
+    <color name="hot_pink">#ff69b4</color>
+    <color name="cerese">#CA278C</color>
+    <color name="turquisoe">#afeeee</color>
+    <color name="dark_grey">#A9A9A9</color>
+    <color name="very_dark_grey">#121F1F</color>
+    <color name="white_af">#ffffff</color>
+
+
+
+</resources>

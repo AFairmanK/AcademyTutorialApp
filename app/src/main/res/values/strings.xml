@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AcademyTutorialApp</string>
+    <string name="greeting_message">hello welcome to my app! </string>
+    <string name="first_hint_text">enter your name here</string>
+    <string name="main_screen_button_text">click here!</string>
+    <string name="view_picture">view guts</string>
+    <string name="form_button_text">sign up here</string>
+    <string name="name">name</string>
+    <string name="age">age</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="form_submit">submit</string>
+    <string name="berserk">Berserk</string>
+    <string name="name_label">Name: </string>
+    <string name="age_label">Age: </string>
+    <string name="email_label">Email: </string>
+    <string name="phonenum_label">Phone Number: </string>
+    <string name="goodbye_text">END</string>
+    <string name="gallery_button_text">Gallery</string>
+</resources>
